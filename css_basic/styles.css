@@ -20,3 +20,25 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+
+.logo {
+    font-size: 28px;
+    color: #4CAF50;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+
+article h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 8px;
+}
+
+article h2 {
+    color: #34495e;
+}
+
+article p {
+    line-height: 1.6;
+    color: #333333;
+}
